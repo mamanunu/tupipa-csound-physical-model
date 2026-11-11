@@ -1,0 +1,64 @@
+ICSC2026 Tupipa Camera-Ready Supplementary Listening Report
+
+Purpose
+-------
+This report documents the informal qualitative listening check used during
+final calibration of the four-layer Csound Tupipa model. It is supplied for
+transparency and reproducibility. It is not a formal perceptual experiment.
+
+Participants
+------------
+The available record identifies the following participant backgrounds:
+
+- The author.
+- Two conservatory professors with expertise in Chinese traditional music and
+  sound design.
+- Experienced local Tupipa performers and cultural practitioners.
+
+The exact total number of listeners was not retained in the available record.
+Individual names, ages, hearing-screening information, session date, and
+playback hardware were not recorded.
+
+Materials compared
+------------------
+The group compared the target recording, the complete four-layer model, and
+isolated layer renders. The supplementary package contains the corresponding
+stereo WAV examples:
+
+- 01_complete_model_stereo.wav
+- 02_core_string_stereo.wav
+- 03_body_response_stereo.wav
+- 04_plectrum_contact_stereo.wav
+- 05_friction_noise_stereo.wav
+
+The discussion focused on attack articulation, brightness, body coloration,
+friction/noise prominence, and sustain/decay. The comparison was made after
+the acoustic-descriptor diagnostics and bounded parameter sweeps had narrowed
+the candidate settings.
+
+Qualitative feedback retained
+-----------------------------
+The retained oral feedback favored:
+
+- A moderate attack rather than an excessively bright or sharp attack.
+- A distinct but subordinate plectrum-contact transient.
+- Restrained friction/noise energy that remains audible as texture without
+  masking the pitched core.
+- A longer body-supported decay rather than an abruptly disappearing tail.
+
+Calibration decisions
+---------------------
+The final calibration retained the four-layer organization and used the
+following confirmed settings in the complete source file: iCps=369.0 Hz,
+kamp=0.30, iPluckPos=0.220, kpick=0.400, krefl=0.624, core gain=0.29,
+body-response gain=0.78, plectrum-contact gain=0.005, and friction/noise gain
+=0.11. These choices were checked together with the acoustic diagnostics and
+were not selected from listening feedback alone.
+
+Limitations of this report
+--------------------------
+No per-listener scores, pairwise preference counts, inter-rater agreement,
+session date, playback hardware, or controlled listening-room description was
+retained. Accordingly, this report makes no statistical perceptual claim and
+should be read as a qualitative calibration record only. The evidence concerns
+one Tupipa, one open-string register, and isolated plucks.

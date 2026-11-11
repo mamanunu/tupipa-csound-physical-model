@@ -1,0 +1,10 @@
+control,case,relative_to_mf,evidence
+kamp_velocity_map,p,0.4084588996446288,median peak amplitude
+kRefl_decay_constraint,p,1.1722054380664653,median 20 dB decay time
+kamp_velocity_map,mf,1.0,median peak amplitude
+kRefl_decay_constraint,mf,1.0,median 20 dB decay time
+kamp_velocity_map,f,1.7487533500769055,median peak amplitude
+kRefl_decay_constraint,f,0.8610271903323263,median 20 dB decay time
+kpick_or_brightness_constraint,near_fret,0.8258270298975207,median body-window spectral centroid
+kpick_or_brightness_constraint,normal,1.0,median body-window spectral centroid
+kpick_or_brightness_constraint,near_bridge,1.2708479216981117,median body-window spectral centroid

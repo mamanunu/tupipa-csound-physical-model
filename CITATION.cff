@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the ICSC2026 paper and this repository."
+title: "Playable Tupipa Physical Model for Csound"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Ma
+    given-names: Yao
+    affiliation: Sichuan Conservatory of Music
+  - family-names: Yang
+    given-names: Wanjun
+    affiliation: Sichuan Conservatory of Music
+preferred-citation:
+  type: conference-paper
+  title: "An Analysis-Guided Workflow for Constructing Playable Csound Physical Models: A Tupipa Case Study"
+  authors:
+    - family-names: Ma
+      given-names: Yao
+    - family-names: Yang
+      given-names: Wanjun
+  conference:
+    name: "8th International Csound Conference (ICSC2026)"
+  year: 2026

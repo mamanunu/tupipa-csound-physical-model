@@ -1,0 +1,68 @@
+Tupipa Notification-and-Attribution License, Version 1.0
+
+Copyright (c) 2026 Yao Ma and Wanjun Yang
+
+Permission is granted, free of charge, to use, study, run, copy, modify,
+adapt, and redistribute the source code, recording-derived data, audio files,
+documentation, and other materials in this repository (collectively, the
+"Materials"), and to incorporate the Materials into commercial or
+noncommercial projects, subject to all of the following conditions:
+
+1. Contact requirement
+
+   Before the first redistribution of the Materials, publication of a modified
+   version, or incorporation of any part of the Materials into another
+   project, you must notify Yao Ma at 654810013@qq.com, identify yourself or
+   your organization, and briefly describe the intended use. One notice per
+   project is sufficient. This notice does not require approval or a reply.
+   If that address becomes unavailable, use the current contact method listed
+   in the original repository. Merely downloading, studying, testing, or
+   privately running an unmodified copy does not require prior notice.
+
+2. Attribution requirement
+
+   Any redistribution, modified version, publication, presentation, or other
+   project that uses or incorporates the Materials must clearly acknowledge
+   the source in its credits, documentation, release notes, or another
+   reasonably visible location. The acknowledgement must include:
+
+   - Yao Ma and Wanjun Yang as the original authors;
+   - the title "Playable Tupipa Physical Model for Csound";
+   - the paper title "An Analysis-Guided Workflow for Constructing Playable
+     Csound Physical Models: A Tupipa Case Study"; and
+   - a link to the original repository, when available.
+
+3. Modified versions
+
+   Modified Materials must be clearly identified as modified and must not be
+   presented as an official or original version produced by the authors.
+
+4. Preservation of notices
+
+   This copyright notice, this license, and the attribution requirements must
+   be included with every redistributed copy or substantial portion of the
+   Materials.
+
+   Recipients of redistributed Materials receive permission directly from the
+   original copyright holders under these same conditions. Independently
+   authored portions of a larger project may use different terms, provided
+   those terms do not remove this license from the covered Materials.
+
+5. No endorsement
+
+   The names of the authors, their affiliations, and the name of the Tupipa
+   project may not be used to imply endorsement of a derivative work, product,
+   organization, or service without separate written permission.
+
+6. No warranty
+
+   THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THEIR USE.
+
+This is a custom source-available license. Because it requires notification
+before redistribution or incorporation into another project, it is not
+represented as an Open Source Initiative approved open-source license.

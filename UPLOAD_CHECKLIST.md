@@ -30,7 +30,8 @@ Recommended supporting materials already included are:
 - [x] Public distribution permission for `mono_muted_pick.wav`, the
   recording-derived tables, and the five example WAV files was confirmed by
   the authors on 11 November 2026.
-- [ ] Add the repository URL to `CITATION.cff` after the GitHub repository exists.
+- [x] Repository URL added to `README.md`, `CITATION.cff`, and `LICENSE`:
+  https://github.com/mamanunu/tupipa-csound-physical-model
 - [ ] Add proceedings pages and a DOI to the citation when available.
 - [ ] Perform one clean-clone render test before creating a numbered release.
 

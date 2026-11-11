@@ -3,6 +3,8 @@ message: "If you use this software, please cite the ICSC2026 paper and this repo
 title: "Playable Tupipa Physical Model for Csound"
 type: software
 version: 1.0.0
+repository-code: "https://github.com/mamanunu/tupipa-csound-physical-model"
+url: "https://github.com/mamanunu/tupipa-csound-physical-model"
 authors:
   - family-names: Ma
     given-names: Yao

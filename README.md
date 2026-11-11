@@ -3,6 +3,8 @@
 This repository contains the commented Csound implementation and supporting
 materials for:
 
+Repository: https://github.com/mamanunu/tupipa-csound-physical-model
+
 > Yao Ma and Wanjun Yang, "An Analysis-Guided Workflow for Constructing
 > Playable Csound Physical Models: A Tupipa Case Study," 8th International
 > Csound Conference (ICSC2026), 2026. Submission ID 53.
@@ -91,8 +93,8 @@ not claim validation of every pitch, dynamic, or playing technique.
 ## Citation
 
 Please cite the ICSC2026 paper above and the software metadata in
-`CITATION.cff`. Add the final proceedings pages, DOI, and repository URL when
-they become available.
+`CITATION.cff`. Add the final proceedings pages and DOI when they become
+available.
 
 ## License
 

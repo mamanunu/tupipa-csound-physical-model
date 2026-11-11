@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*.aux
+*.out
+*.tmp
+render_test*.wav
+output/
+.idea/
+.vscode/
